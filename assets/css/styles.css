@@ -1,0 +1,16 @@
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background: #101920;
+}
+
+body {
+  background: #FFE715;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+  padding-top: 45px;
+}
+
